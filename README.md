@@ -1,2 +1,2 @@
 # malikaja
-web ngasal
+web ngasal aja
